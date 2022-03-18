@@ -12,10 +12,6 @@
 - 👯 Projects: [CommunityElectro](https://github.com/matiasbuccione/)
 - 💬 Ping me about **javaScript**, **html** **CSS**, **design**, **development**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasbuccione//)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter.
-
-[![Linkedin]](https://www.linkedin.com/in/matiasbuccione)
-[![Gmail]](buccionematias@gmail.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
