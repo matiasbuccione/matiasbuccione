@@ -9,7 +9,7 @@
 
 - 🌱 Learning all about **Web development**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.react`, `.node js`, `.express`, `.my sql`
-- 👯 Projects: [SpellBook](https://github.com/MacarenaPrz/grupo_7_Spellbook)
+- 👯 Projects: [CommunityElectro](https://github.com/matiasbuccione/)
 - 💬 Ping me about **javaScript**, **html** **CSS**, **design**, **development**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasbuccione//)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter.
