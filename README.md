@@ -10,7 +10,7 @@
 
 - 🌱 Learning all about **Web development**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.react`, `.node js`, `.express`, `.my sql`
-- 👯 Projects: [CommunityElectro](https://github.com/matiasbuccione/)
+- 👯 Projects: [CommunityElectro](https://github.com/Cabrerajuan10/grupo_11_CommunityElectro)
 - 💬 Ping me about **javaScript**, **html** **CSS**, **design**, **development**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/matiasbuccione//)
 
