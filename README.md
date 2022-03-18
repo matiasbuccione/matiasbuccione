@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Matias</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h1 align="left">Hi 👋, I'm Matias</h1>
+<h3 align="left">A passionate full-stack developer from Argentina</h3>
 
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://w0.peakpx.com/wallpaper/113/999/HD-wallpaper-teclado-gaming-computer-computers-keyboard-technology.jpg" width="100%" alt="Matias Buccione" />
-</h1>
+</h1> -->
+
 
 
 - 🌱 Learning all about **Web development**
