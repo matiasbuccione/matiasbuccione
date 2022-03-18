@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src="https://wallpaperstock.net/wallpapers/thumbs1/45166hd.jpg" width="100%" alt="Matias Buccione" />
+  <img src="https://w0.peakpx.com/wallpaper/113/999/HD-wallpaper-teclado-gaming-computer-computers-keyboard-technology.jpg" width="100%" alt="Matias Buccione" />
 </h1>
 
 
